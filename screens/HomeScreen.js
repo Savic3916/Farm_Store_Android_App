@@ -52,7 +52,7 @@ const styles = StyleSheet.create({
     text1: {
       color: Colors.primary100,
       fontFamily: 'Maven',
-      fontSize: deviceWidth < 360? 22 : 27,
+      fontSize: deviceWidth < 360? 21 : 27,
       fontWeight: 'bold',
     },
     text2: {
